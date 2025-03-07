@@ -1,4 +1,5 @@
 # 1. 使用教程修改b
+# 1. 使用教程a修改
 ## 1.1 软件安装（课前准备）
 ### 1.1.1 安装VS Code
 教程链接：[https://zhuanlan.zhihu.com/p/698865320](https://zhuanlan.zhihu.com/p/698865320)
